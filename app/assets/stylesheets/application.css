@@ -12,3 +12,8 @@
  *= require_tree .
  */
  *= require foundation_and_overrides
+
+ body{
+  background-image: url('/assets/p5.png');
+  background-repeat: repeat top;	
+}
