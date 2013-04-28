@@ -5,6 +5,9 @@ WedE::Application.routes.draw do
 
   get "usuario/index"
 
+
+  match "home" => "static_pages#inicio"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

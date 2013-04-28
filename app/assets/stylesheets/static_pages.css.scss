@@ -1,3 +1,37 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.logoabajo {
+	background-image: url("/assets/logoabajo.png");
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	height: 100px;
+}
+
+.login-top {
+	top: -20px;
+	position: relative;
+	right : 0px
+	
+}
+
+.wed-e-viedeo{
+
+	position : relative; 
+	top : -50px;
+	width : 500px;
+	height : 300px;
+	margin : 0 auto;
+}
+
+.supplier-btn{
+	
+	position : relative; 
+	top : 50px;
+	}
+
+.logo{
+	position:relative;
+	left: 20px;
+}	
